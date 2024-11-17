@@ -1,6 +1,6 @@
 # Donald Taggart (dtaggart@ucsd.edu)
-## Section: A17
-## Mentor: Barna Saha
+Section: A17
+Mentor: Barna Saha
 
 #### **What is the most interesting topic covered in your domain this quarter?**
 While not necessarily its own topic, I find it extremely interesting that a LLM (either on its website or through it API) can be provided with a "role" to undertake. The fact that this can be utilized to force a LLM to effectively adopt a goal, perspective, and methodology for going about a provided task goes to show a weak spot I would not have initially thought of that can be taken advantage of by those with nefarious intentons. The implications of these "blind spots" have great influence on how a LLM can be jailbroken or defended from it.

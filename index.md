@@ -1,5 +1,7 @@
 # Donald Taggart (dtaggart@ucsd.edu)
+
 Section: A17
+
 Mentor: Barna Saha
 
 #### **What is the most interesting topic covered in your domain this quarter?**
